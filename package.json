@@ -1,0 +1,17 @@
+{
+  "author": "Peter Beardshear <pbeardshear@gmail.com> (prbr.me)",
+  "name": "requiredir",
+  "description": "Requires all JavaScript files in a directory.",
+  "version": "0.0.1",
+  "homepage": "https://github.com/pbeardshear/requiredir",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/pbeardshear/requiredir.git"
+  },
+  "main": "requiredir",
+  "engines": {
+    "node": "0.6.4"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
