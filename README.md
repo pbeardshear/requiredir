@@ -16,7 +16,7 @@ var requiredir = require('requiredir'),
 Assuming you have a directory structure of the form:
 
 ```js
-- Controllers
+- controllers
 --- home
 ----- homeController.js
 --- admin
@@ -37,7 +37,7 @@ controllers = {
 
 ## Supplying arguments
 
-You may occasionally want to supply arguments to the files you are including in a directory.  Assume you are using express, and have a directory of routing files which each need a reference to the express app.
+You may occasionally want to supply arguments to the files you are including in a directory.  Assume you are using express, and have a directory of routing files that each need a reference to the express app.
 
 ```js
 // in routes/HomeRoutes.js
